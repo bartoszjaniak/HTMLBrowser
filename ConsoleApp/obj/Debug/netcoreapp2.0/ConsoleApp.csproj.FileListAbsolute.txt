@@ -1,0 +1,11 @@
+C:\Users\bartoszjaniak\Projekty\HTMLBrowser\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.deps.json
+C:\Users\bartoszjaniak\Projekty\HTMLBrowser\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.json
+C:\Users\bartoszjaniak\Projekty\HTMLBrowser\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\bartoszjaniak\Projekty\HTMLBrowser\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.dll
+C:\Users\bartoszjaniak\Projekty\HTMLBrowser\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.pdb
+C:\Users\bartoszjaniak\Projekty\HTMLBrowser\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\bartoszjaniak\Projekty\HTMLBrowser\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\bartoszjaniak\Projekty\HTMLBrowser\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\bartoszjaniak\Projekty\HTMLBrowser\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\bartoszjaniak\Projekty\HTMLBrowser\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.dll
+C:\Users\bartoszjaniak\Projekty\HTMLBrowser\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.pdb
